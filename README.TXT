@@ -1,3 +1,5 @@
+# 注意：只支持python2，不支持python3。 所以谨慎使用
+
 GAEUnit: Google App Engine Unit Test Framework
 
 Version 1.2.8
